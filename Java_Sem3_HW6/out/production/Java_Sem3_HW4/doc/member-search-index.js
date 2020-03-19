@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ru.ifmo.rain.smirnov.implementor","c":"Test","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"ru.ifmo.rain.smirnov.implementor","c":"Test","l":"Test()","url":"%3Cinit%3E()"}]
